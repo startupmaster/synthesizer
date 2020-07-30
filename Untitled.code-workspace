@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Desktop/dProject/kd"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "newJS"
+	}
+}
